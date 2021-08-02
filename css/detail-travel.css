@@ -1,0 +1,60 @@
+
+/* open card Travel Packages */
+#travel-packages {
+    background-color: white;
+}
+
+.link-card-travel {
+    text-decoration: none;
+}
+
+.group-card {
+    margin-top: 160px;
+}
+
+
+.card-travel {
+    border: none;
+    transition: 0.2s;
+}
+
+.card-travel:hover {
+    border: none;
+    box-shadow: 6px 6px 15px -3px rgba(0, 0, 0, 0.25);
+    margin-top: -10px;
+}
+
+.title-card {
+    font-weight: 400;
+    color: #045067;
+    font-size: 20px;
+}
+
+.card-text-location {
+    color: gray;
+    padding: 0;
+}
+
+.text-price-card {
+    color: #FFC107;
+    font-size: 14px;
+}
+
+.heading-page-travel {
+    font-size: 24px;
+    color: #FFC107;
+}
+
+.text-head-travel-bottom {
+    font-size: 17px;
+}
+
+.btn-view-details {
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #FFC107;
+    height: 30px;
+    font-size: 14px;
+}
+/* close card Travel Packages */
